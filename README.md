@@ -1,3 +1,4 @@
+### spatial-portal   [![Build Status](https://travis-ci.org/mbohun/spatial-portal.svg?branch=master)](https://travis-ci.org/mbohun/spatial-portal)
 spatial-portal
 ==============
 
